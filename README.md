@@ -4,8 +4,6 @@ This project is an Expense Tracker designed to help users monitor their daily sp
 
 The goal behind developing this software was to enhance my understanding of core Java concepts, including file handling, collections, and user input/output. It demonstrates practical programming skills such as data management, basic calculations, and user interaction via the console. The application also provides insights into spending habits, helping users become more conscious of their financial behavior.
 
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
-
 # Development Environment
 
 - Visual Studio Code
